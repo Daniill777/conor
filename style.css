@@ -1,0 +1,23 @@
+
+.img__logo{
+    width:100px;
+    height: auto;
+}
+
+.container {
+display:flex;
+}
+
+.main{
+    padding-left:50px;
+    min-width: 40%;
+    padding-right:20px;
+}
+
+.nav{
+background-color: red ;
+max-width:50%;
+min-height: 150px;
+flex: 1;
+padding-left:30px;
+}
